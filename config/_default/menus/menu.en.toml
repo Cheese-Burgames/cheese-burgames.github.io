@@ -1,0 +1,25 @@
+#  menu items
+[[main]]
+  name = "Our Games"
+  weight = 1
+  url = "games/"
+
+[[main]]
+  name = "Our Assets"
+  weight = 2
+  url = "assets/"
+
+[[main]]
+  name = "The Studio"
+  weight = 3
+  url = "studio/"
+
+[[main]]
+  name = "Services"
+  weight = 4
+  url = "services/"
+
+[[main]]
+  name = "Contact"
+  weight = 5
+  url = "contact/"

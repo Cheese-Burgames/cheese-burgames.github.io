@@ -1,0 +1,10 @@
+{{- $config := site.Params }}
+{{- $author := $config.author }}
+<footer class="pt-2 pb-2">
+  <div class="wrap">
+    <p>
+      &copy; <span class="year">{{ now.Year }}</span> Cheesse Burgames
+    </p>
+    <a href="#pagetop" id="toTop" title={{ T "to_top" }}></a>
+  </div>
+</footer>
