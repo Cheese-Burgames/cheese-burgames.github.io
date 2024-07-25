@@ -5,9 +5,9 @@
   url = "games/"
 
 [[main]]
-  name = "Our Assets"
+  name = "Assets Store"
   weight = 2
-  url = "assets/"
+  url = "https://assetstore.unity.com/publishers/102759"
 
 [[main]]
   name = "The Studio"
